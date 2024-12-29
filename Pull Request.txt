@@ -1,0 +1,2 @@
+What is a Git Pull Request?
+A pull request is a request to merge changes from one branch into another branch in a Git repository. Typically, pull requests are used in collaborative workflows where multiple developers work on different features or fixes in separate branches. A pull request allows the team to review and discuss the proposed changes before they are merged into the main branch.
