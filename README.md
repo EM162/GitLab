@@ -25,11 +25,11 @@ git push origin --delete v1.4
 ## What is git rebase? Give me an example.
 Git rebase can integrate the changes from one branch to another by overcoming the problems that we might have faced while using the git merge command. The changes we will do will be recorded in the form of logs which are useful to go through if any mistakes happen.
 
-Example: if we have f1, f2 in main branch
+Example: if we have f1, f2 in main branch,
           and f3, f4 in NewBranch branch
           Switch to NewBranch branch and rebase:
-          git checkout NewBranch
-          git rebase main
+          git checkout NewBranch,
+          git rebase main,
           Result after rebase:
           f1, f2, f3, f4 in NewBranch
 
