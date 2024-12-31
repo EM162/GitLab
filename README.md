@@ -37,3 +37,7 @@ Example: if we have f1, f2 in main branch,
 ## What is pull request ?
 A pull request is a request to merge changes from one branch into another branch in a Git repository. Typically, pull requests are used in collaborative workflows where multiple developers work on different features or fixes in separate branches. A pull request allows the team to review and discuss the proposed changes before they are merged into the main branch.
 
+
+
+![image](https://github.com/user-attachments/assets/39d7cbfc-9441-47ab-aafb-88db3d6f26a5)
+
